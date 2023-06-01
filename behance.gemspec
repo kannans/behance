@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency     'faraday',            '~> 1.10.3'
   gem.add_runtime_dependency     'faraday_middleware', '~> 1.2.0'
-  gem.add_runtime_dependency     'json',               '~> 1.8.1'
+  gem.add_runtime_dependency     'json',               '~> 2.6.3'
   gem.add_development_dependency 'webmock',            '~> 1.8.10'
   gem.add_development_dependency 'rspec',              '~> 2.6'
 end
